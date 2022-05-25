@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on a Discord Role Bot for the ACM Student Chapter at ASU and a personal portoflio website.
+- 🌱 I’m currently learning about AWS and earning my Cloud Practitioner Certificate.
+- 🏁 Moto enthusiast.
+
 <!--
 **mgrist/mgrist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
